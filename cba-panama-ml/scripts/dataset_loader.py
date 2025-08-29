@@ -7,7 +7,6 @@ import io
 
 
 DATAFRAME_CACHE_PATH = '../data/processed/datasets_merged.xlsx'
-DATAFRAME_CACHE_PATH = '/home/administrador/Desktop/datasets_merged.xlsx'
 
 
 def get_dataframe(data_folder, force_new=False):
