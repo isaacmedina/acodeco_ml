@@ -45,10 +45,13 @@ Construir un sistema de *machine learning* que prediga el precio del próximo me
   ```bash
   pip install -r requirements.txt
   ```
-  - pandas  
-  - scikit-learn  
-  - numpy  
-  - matplotlib  
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- xlrd
+- joblib
 
 ### Ejecución
 1. Descargar datasets de ACODECO y colocarlos en `data/raw/`.  
